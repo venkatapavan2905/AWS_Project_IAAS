@@ -1,5 +1,5 @@
 #!/bin/bash
-DATABASE_PASS='admin123'
+DATABASE_PASS=''
 sudo yum update -y
 sudo yum install epel-release -y
 sudo yum install git zip unzip -y
