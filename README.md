@@ -15,3 +15,9 @@ In this Project, entire on-prem infra is shifted to AWS Cloud following Lift and
 6. Artifact is copied to tomacat instance from S3 bucket and restarted the service.
 7. Image is created with the working appliaction and used to create a template for auto scaling group.
 8. Load balancer and Auto scaling groups are configured to provision High Availability and Fault tolerance.
+
+
+
+
+![image](https://github.com/venkatapavan2905/AWS_Project_IAAS/assets/138016465/28a35055-d92b-452d-bf2e-efecb3aa5845)
+
